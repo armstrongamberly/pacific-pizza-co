@@ -1,3 +1,4 @@
 # pacific-pizza-co
 
-Ustatic webpage for pacific pizza co. using jekyll and bootstrap
+static webpage for pacific pizza co. using jekyll and bootstrap
+
