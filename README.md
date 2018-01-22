@@ -1,3 +1,3 @@
 # pacific-pizza-co
 
-Used Jekyll to create webpage for pacific pizza co.
+static webpage for pacific pizza co. using jekyll and bootstrap
